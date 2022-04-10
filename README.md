@@ -2,6 +2,7 @@
 - RINO ELJON ATIBAMAN
 - 312010006 
 - TI.20.D1
+![rino](https://user-images.githubusercontent.com/101688124/162601270-77ffdaae-298d-4eaa-9f8f-deb257d199c5.jpeg)
 
 # Persiapan membuat dokumen HTML dengan nama file lab5_javascript.html seperti berikut.
 ![2022-04-10](https://user-images.githubusercontent.com/101688124/162590711-9e4f174e-f594-48e5-828f-2776f47c67f6.png)
@@ -42,6 +43,9 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
 ## Pertanyaan dan Tugas
 1. Buat script untuk melakukan validasi pada isian form.
 JAWABAN :
+![2022-04-10 (12)](https://user-images.githubusercontent.com/101688124/162601223-8a66b01e-adc2-4372-a0b2-5df741ca6a1c.png)
+![2022-04-10 (13)](https://user-images.githubusercontent.com/101688124/162601258-bdd578d9-3333-4888-b452-77e5ab3e73a9.png)
+
 
 
 
